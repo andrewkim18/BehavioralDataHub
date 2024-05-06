@@ -8,6 +8,7 @@ For the frontend, we used Flutter to have an app that can easily be used across 
 For the backend, we used .NET C#. It is a versatile and powerful framework that can be used to create the API we need to power the frontend. Several members of our team have experience using this framework in internships, making it a clear choice. We are using Visual Studio as our IDE of choice for the backend.
 
 Our database runs off of Microsoft SQL Server. This choice was made to have easy integration into the suite of tools we're already using (Visual Studio supports connecting to SQL Server natively), as well as having familiar syntax while also maintaining power.
+
 # Release Notes
 
 ## 0.0.0
@@ -25,3 +26,9 @@ None
 ### Known Issues
 - Password box does not hide input characters
 - If a user has no data, the loading spinner in the data view screen will run indefinitely
+- Currently no actual login and password data to make verifiable login
+
+### Future Development Plans
+- Complete rest of application features
+- Further develop API and database
+- Incorporate machine learning algorithms
