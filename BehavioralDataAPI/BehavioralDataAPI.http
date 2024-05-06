@@ -1,0 +1,6 @@
+@BehavioralDataAPI_HostAddress = http://localhost:5079
+
+GET {{BehavioralDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
